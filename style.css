@@ -100,7 +100,9 @@
     display: flex;
     justify-content: space-around;
     padding: 20px;
-    background-image: url("./images/background.png"),
-    linear-gradient(45deg,rgb(8, 8, 8),rgb(52, 50, 50)),
+    background-image: url(./images/background.png), 
+    linear-gradient(45deg,rgb(8, 8, 8), rgb(61, 60, 60));
+
+   
 
 }
